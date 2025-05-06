@@ -7,10 +7,10 @@
 3) python -m venv name_of_venv
 
 ## Installation
-pip install tqdm
-pip install torch
-pip install torchvision
-pip install thop
+1) pip install tqdm
+2) pip install torch
+3) pip install torchvision
+4) pip install thop
 
 ## Train Command
 python3 train_vae.py -mn name_of_run --dataset_root dataset_root/
